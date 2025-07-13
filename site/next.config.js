@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Kasm Technologies',
     description: 'My Kasm List',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/OGMrThomson/kasm-registry/',
+    listUrl: 'https://ogmrthomson.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
