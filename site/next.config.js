@@ -5,7 +5,7 @@ const nextConfig = {
   distDir: '../public',
   env: {
     name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'My Kasm List',
     icon: '/img/logo.svg',
     listUrl: 'https://github.com/OGMrThomson/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
