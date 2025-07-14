@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
+    name: 'MRThomson - Kasm',
     description: 'My Kasm List',
     icon: '/img/logo.svg',
     listUrl: 'https://ogmrthomson.github.io/kasm-registry/',
